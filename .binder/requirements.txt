@@ -1,0 +1,6 @@
+sktime
+tsfresh
+pmdarima
+numba
+scikit-posthocs
+matplotlib
