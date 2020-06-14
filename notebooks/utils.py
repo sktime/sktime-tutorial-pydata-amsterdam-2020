@@ -17,7 +17,7 @@ def _load_data():
     https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN
     /6C3JR1
     """
-    return pd.read_csv("data/chemical_process_data.csv", index_col=0,
+    return pd.read_csv("../data/chemical_process_data.csv", index_col=0,
                        header=[0, 1])
 
 
