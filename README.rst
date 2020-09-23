@@ -15,6 +15,8 @@ Introduction to Machine Learning with Time Series
 This is the repository for the "Introduction to Machine Learning with Time
 Series" code breakfast at PyData Festival Amsterdam 2020.
 
+Watch the video here: https://www.youtube.com/watch?v=Wf2naBHRo8Q
+
 You'll learn about:
 
 * Machine learning with time series,
