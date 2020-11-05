@@ -1,4 +1,4 @@
-sktime==0.4.*
+sktime==0.4.2
 tsfresh
 pmdarima
 numba
