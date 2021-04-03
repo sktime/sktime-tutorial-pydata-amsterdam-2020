@@ -9,14 +9,14 @@
 .. _Binder: https://mybinder.org/v2/gh/sktime/sktime-tutorial-pydata-amsterdam-2020/master?filepath=notebooks
 
 
+This tutorial was written for sktime version 0.4.2, for more up-to-date notebooks visit sktime's `online documentation <https://www.sktime.org/en/latest/how_to_get_started.html>`__.
+
 
 Introduction to Machine Learning with Time Series
 =================================================
 
 This is the repository for the "Introduction to Machine Learning with Time
 Series" code breakfast at PyData Festival Amsterdam 2020.
-
-This tutorial was written for sktime version 0.4.2, for more up-to-date notebooks visit sktime's `online documentation <https://www.sktime.org/en/latest/how_to_get_started.html>`__.
 
 You can watch the video here: https://www.youtube.com/watch?v=Wf2naBHRo8Q
 
