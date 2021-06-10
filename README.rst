@@ -6,7 +6,7 @@
 .. _gitter: https://gitter.im/sktime/community
 
 .. |binder| image:: https://mybinder.org/badge_logo.svg
-.. _Binder: https://mybinder.org/v2/gh/sktime/sktime-tutorial-pydata-amsterdam-2020/master?filepath=notebooks
+.. _Binder: https://mybinder.org/v2/gh/sktime/sktime-tutorial-pydata-amsterdam-2020/main?filepath=notebooks
 
 
 This tutorial was written for sktime version 0.4.2, for more up-to-date notebooks visit sktime's `online documentation <https://www.sktime.org/en/latest/how_to_get_started.html>`__.
